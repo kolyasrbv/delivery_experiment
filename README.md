@@ -8,7 +8,7 @@
 - calculate the percentage change in the average delivery time in the test group compared to the control group
 
 **Data description**
-- order_id - id заказа
-- delivery_time - время доставки в минутах
-- district - район доставки
-- experiment_group - экспериментальная группа
+- order_id - order id
+- delivery_time - delivery time in minutes
+- district - delivery area
+- experiment_group - experimental group
